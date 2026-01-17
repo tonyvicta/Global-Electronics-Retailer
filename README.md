@@ -14,10 +14,9 @@
 This repo contains my Global Electronics Retailer Power BI report, built end to end from data prep to modelling, DAX, and reporting.
 
 ## Live report
-GitHub does not display embedded Power BI iframes inside README files.
-To view the embedded report, open the GitHub Pages site for this repo.
 
-Steps to enable it are in the section called Publish with GitHub Pages.
+[![Global Electronics report preview](screenshots/ge_preview.gif)](https://app.powerbi.com/view?r=eyJrIjoiNTNhZWQ2ZDAtMWUzZi00MDU1LWJkM2MtZmM2ZGYyMDk4NTU2IiwidCI6IjU1M2JkNGM5LTA3YTgtNGQyMy04ZDEyLWFkNzFkZWU3NGM3ZCJ9)
+
 
 ## What I built
 This report focuses on three pages:
