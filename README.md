@@ -103,3 +103,7 @@ docs/index.html
 ## Project notes
 Step by step build notes:
 notes/build_steps.md
+
+## Author
+* © 2026 Tony Tawakali. All rights reserved
+
