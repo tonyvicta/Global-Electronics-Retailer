@@ -1,6 +1,6 @@
 # Global Electronics Retailer
 
-This repo contains my Maven Electronics Power BI report, built end to end from data prep to modelling, DAX, and reporting.
+This repo contains my Global Electronics Retailer Power BI report, built end to end from data prep to modelling, DAX, and reporting.
 
 ## Live report
 GitHub does not display embedded Power BI iframes inside README files.
