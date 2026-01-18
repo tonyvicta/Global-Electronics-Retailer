@@ -54,6 +54,14 @@ Examples of the measures used in visuals:
 Full notes:
 notes/measures_dax.md
 
+## Key Questions Explored
+
+1. What was total revenue for Home Appliances in 2019  
+2. Which store showed the strongest YoY revenue growth in 2020  
+3. Which store had the highest orders in 2021  
+4. Which category generated the most revenue in 2018  
+5. For Store 15, which subcategory drove the most revenue in 2017  
+
 ## Page walkthrough
 
 ### Exec Overview
